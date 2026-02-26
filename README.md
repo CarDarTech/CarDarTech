@@ -7,8 +7,15 @@ Since working at Northcoders I have worked with 300+ learners, supporting them w
 We are finding more and more that people are showing their creative sides, their personality or just that little bit extra by them updating their GitHub profiles. What are your thoughts about mine so far? Has it given you any ideas of how to update yours? 
 
 I am currently looking in to GitHub a little more, to understand how it works and be able to help students with not only their profiles but their readmes too
-- if you have any questions, please always reach out to me in your personal Slack channel
-- 
+
+Remember to 
+- change the stock image to something different (could be another graphic, image or photo)
+- update your profile readmie (this one)
+- keep your GitHub contributions up to date (contribution table)
+- make sure that the contribution table is set to include your private repos 
+
+if you have any questions, please always reach out to me in your personal Slack channel
+
 <!--
 **CarDarTech/CarDarTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
