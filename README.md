@@ -9,11 +9,11 @@ We are finding more and more that people are showing their creative sides, their
 I am currently looking in to GitHub a little more, to understand how it works and be able to help students with not only their profiles but their readmes too
 
 Remember to 
-- change the stock image to something different (could be another graphic, image or photo)
-- update your profile README (this one)
-- keep your GitHub contributions up to date (contribution table)
-- make sure that the contribution table is set to include your private repos
-- 
+- 🎇 change the stock image to something different (could be another graphic, image or photo)
+- ⌨️ update your profile README (this one)
+- 🟩 keep your GitHub contributions up to date (contribution table)
+- ✅ make sure that the contribution table is set to include your private repos
+
 You are also prompted with some ideas:
 - currenyly working on updating my GitHub profile to make it more interesting
 - 👯 I am always trying to increase my network to help support students journeys in to tech - Let's connect on LinkedIn?
@@ -22,7 +22,7 @@ You are also prompted with some ideas:
 - 📫 you can reach me in Slack, for any company reference requests please email careers@northcoders.com 
 - 😄 pronouns: he/him  
 
-if you have any questions, please always reach out to me in your personal Slack channel
+if you have any questions, please always reach out to me in your personal Slack channel 👋
 
 <!--
 **CarDarTech/CarDarTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
