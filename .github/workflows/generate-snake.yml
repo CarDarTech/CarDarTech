@@ -18,12 +18,12 @@ steps:
 id: snake-gif
 with: 
 github_user_name: CarDarTech
-outputs:
+outputs: |
 dist/github-contribution-grid-snake.svg
 dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 dist/github-contribution-grid-snake.gif
 
-uses: crazy-max/ghaction-github-pages@v4
+- uses: crazy-max/ghaction-github-pages@v4
 with: 
 target_branch: output
 build_dir: dist
