@@ -15,12 +15,15 @@ Remember to
 - ✅ make sure that the contribution table is set to include your private repos
 
 You are also prompted with some ideas:
-- currenyly working on updating my GitHub profile to make it more interesting
+- currently working on updating my GitHub profile to make it more interesting
 - 👯 I am always trying to increase my network to help support students journeys in to tech - Let's connect on LinkedIn?
 - 🤔 I’m looking for help with how I make my GitHub look better
 - 💬 Ask me how to keep your CV and LinkedIn up to date
 - 📫 you can reach me in Slack, for any company reference requests please email careers@northcoders.com 
-- 😄 pronouns: he/him  
+- 😄 pronouns: he/him
+
+Interesting things I have seen along the way:
+- Did you know you can make your GitHub contributions more fun by creating a snake or Pacman workflow?! 
 
 if you have any questions, please always reach out to me in your personal Slack channel 👋
 
