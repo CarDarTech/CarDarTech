@@ -10,7 +10,7 @@ I am currently looking in to GitHub a little more, to understand how it works an
 
 Remember to 
 - change the stock image to something different (could be another graphic, image or photo)
-- update your profile readmie (this one)
+- update your profile README (this one)
 - keep your GitHub contributions up to date (contribution table)
 - make sure that the contribution table is set to include your private repos 
 
