@@ -8,7 +8,7 @@ We are finding more and more that people are showing their creative sides, their
 
 I am currently looking in to GitHub a little more, to understand how it works and be able to help students with not only their profiles but their readmes too
 
-{"lineBreak": "horizontalLine"}
+_____
 
 Remember to 
 - 🎇 change the stock image to something different (could be another graphic, image or photo)
