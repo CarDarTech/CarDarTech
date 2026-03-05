@@ -7,7 +7,7 @@ Since working at Northcoders I have worked with 300+ learners, supporting them w
 We are finding more and more that people are showing their creative sides, their personality or just that little bit extra by them updating their GitHub profiles. What are your thoughts about mine so far? Has it given you any ideas of how to update yours? 
 
 I am currently looking in to GitHub a little more, to understand how it works and be able to help students with not only their profiles but their readmes too
-
+'<br>'
 Remember to 
 - 🎇 change the stock image to something different (could be another graphic, image or photo)
 - ⌨️ update your profile README (this one)
