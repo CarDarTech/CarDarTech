@@ -15,7 +15,7 @@ Remember to
 - ⌨️ update your profile README (this one)
 - 🟩 keep your GitHub contributions up to date (contribution table)
 - ✅ make sure that the contribution table is set to include your private repos
-
+______
 You are also prompted with some ideas:
 - currently working on updating my GitHub profile to make it more interesting
 - 👯 I am always trying to increase my network to help support students journeys in to tech - Let's connect on LinkedIn?
@@ -23,7 +23,7 @@ You are also prompted with some ideas:
 - 💬 Ask me how to keep your CV and LinkedIn up to date
 - 📫 you can reach me in Slack, for any company reference requests please email careers@northcoders.com 
 - 😄 pronouns: he/him
-
+_____
 Interesting things I have seen along the way:
 - Did you know you can make your GitHub contributions table more fun by creating a snake 🐍 or Pacman workflow?!
 ----
