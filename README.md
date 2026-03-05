@@ -23,7 +23,8 @@ You are also prompted with some ideas:
 - 😄 pronouns: he/him
 
 Interesting things I have seen along the way:
-- Did you know you can make your GitHub contributions table more fun by creating a snake or Pacman workflow?!
+- Did you know you can make your GitHub contributions table more fun by creating a snake 🐍 or Pacman workflow?!
+----
 
 Remember
 - ✅ keep your profile up to date
