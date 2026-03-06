@@ -26,6 +26,7 @@ You are also prompted with some ideas:
 _____
 Interesting things I have seen along the way:
 - Did you know you can make your GitHub contributions table more fun by creating a snake 🐍 or Pacman workflow?!
+- adding icons, buttons and images can make it look for interesting, fun and make your profile stand out! 
 ----
 
 Remember
