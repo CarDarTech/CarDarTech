@@ -33,6 +33,7 @@ Remember
 - ✅ check your spelling
 - ✅ make sure it sells you
 - ✅ are your READMEs up to date and good for another tech person to read / review / understand?
+- ✅ inject your personality (remember updating here also helps with your contributions) 
 
 if you have any questions, please always reach out to me in your personal Slack channel 👋
 
