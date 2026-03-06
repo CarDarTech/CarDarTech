@@ -6,7 +6,7 @@ Since working at Northcoders I have worked with 300+ learners, supporting them w
 
 We are finding more and more that people are showing their creative sides, their personality or just that little bit extra by them updating their GitHub profiles. What are your thoughts about mine so far? Has it given you any ideas of how to update yours? 
 
-I am currently looking in to GitHub a little more, to understand how it works and be able to help students with not only their profiles but their readmes too
+I am currently looking in to GitHub a little more, to understand how it works and be able to help students with not only their profiles but their READMEs too
 
 _____
 
@@ -26,7 +26,9 @@ You are also prompted with some ideas:
 _____
 Interesting things I have seen along the way:
 - Did you know you can make your GitHub contributions table more fun by creating a snake 🐍 or Pacman workflow?!
-- adding icons, buttons and images can make it look for interesting, fun and make your profile stand out! 
+- Some really cool images or art 🧑‍🎨
+- popping up text - type writer effect / pop up text
+- adding icons for your tech stack not only is informative but more visuably appealing 
 ----
 
 Remember
