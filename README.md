@@ -30,6 +30,10 @@ Interesting things I have seen along the way:
 - popping up text - type writer effect / pop up text
 - adding icons for your tech stack not only is informative but more visuably appealing 
 ----
+Can you help me 
+- add buttons (like LinkedIn)?
+- sort out my action of adding PacMan or a Snake to my contributions table? 
+------
 
 Remember
 - ✅ keep your profile up to date
