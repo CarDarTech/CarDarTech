@@ -18,7 +18,7 @@ Remember to
 ______
 You are also prompted with some ideas:
 - currently working on updating my GitHub profile to make it more interesting
-- 👯 I am always trying to increase my network to help support students journeys in to tech - Let's connect on LinkedIn?
+- 👯 I am always trying to increase my network to help support students journeys in to tech - Let's connect on LinkedIn!
 - 🤔 I’m looking for help with how I make my GitHub look better
 - 💬 Ask me how to keep your CV and LinkedIn up to date
 - 📫 you can reach me in Slack, for any company reference requests please email careers@northcoders.com 
@@ -31,18 +31,18 @@ Interesting things I have seen along the way:
 - adding icons for your tech stack not only is informative but more visuably appealing 
 ----
 Can you help me 🤦‍♂️
-- add buttons (like LinkedIn) ?
+- add buttons (like LinkedIn)?
 - sort out my action of adding PacMan or a Snake to my contributions table? 
 ------
 
-Remember
+Remember to
 - ✅ keep your profile up to date
 - ✅ check your spelling
 - ✅ make sure it sells you
-- ✅ are your READMEs up to date and good for another tech person to read / review / understand?
+- ✅ ensure your READMEs are up to date and good for another tech person to read / review / understand?
 - ✅ inject your personality (remember updating here also helps with your contributions) 
 
-if you have any questions, please always reach out to me in your personal Slack channel 👋
+If you have any questions, please always reach out to me in your personal Slack channel 👋
 
 <!--
 **CarDarTech/CarDarTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
