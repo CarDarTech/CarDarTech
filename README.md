@@ -1,4 +1,4 @@
-## Hi there, I am Darren 👋
+## Hi, I'm Darren 👋
 
 I have worked in many different sectors and made many connections around the globe! Even landed my job with Northcoders by catching up with a friend (and previous colleague) over coffee ☕️
 
