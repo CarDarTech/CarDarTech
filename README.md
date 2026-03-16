@@ -32,7 +32,7 @@ Interesting things I have seen along the way:
 ----
 Can you help me 🤦‍♂️
 - add buttons (like LinkedIn)?
-- sort out my action of adding PacMan or a Snake to my contributions table? 
+- sort out my action of adding PacMan or a Snake to my contributions table? Think I am on my way there now ... 
 ------
 
 Remember to
