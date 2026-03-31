@@ -8,6 +8,7 @@ We are finding more and more that people are showing their creative sides, their
 
 I am currently looking in to GitHub a little more, to understand how it works and be able to help students with not only their profiles but their READMEs too
 
+Here's to hoping that you find my profile page useful in creating a more impactful GitHub landing page 🤞
 _____
 
 Remember to 
