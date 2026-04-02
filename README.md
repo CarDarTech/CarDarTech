@@ -11,7 +11,8 @@ I am currently looking in to GitHub a little more, to understand how it works an
 Here's to hoping that you find my profile page useful in creating a more impactful GitHub landing page 🤞
 _____
 
-Remember to 
+Remember
+- 💡 This is not your CV, this is the technical side of things. Show your personality and interest but don't have a lengthy profile (like this one!) 
 - 🎇 change the stock image to something different (could be another graphic, image or photo)
 - ⌨️ update your profile README (this one)
 - 🟩 keep your GitHub contributions up to date (contribution table)
