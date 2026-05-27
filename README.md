@@ -42,7 +42,8 @@ Remember to
 - ✅ check your spelling
 - ✅ make sure it sells you
 - ✅ ensure your READMEs are up to date and good for another tech person to read / review / understand?
-- ✅ inject your personality (remember updating here also helps with your contributions) 
+- ✅ inject your personality (remember updating here also helps with your contributions)
+- ✅ not to duplicate things, there is an option to add your LinkedIn, Email etc in the left side bar; do you need it here too? 
 
 If you have any questions, please always reach out to me in your personal Slack channel 👋
 
