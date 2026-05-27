@@ -17,7 +17,7 @@ Remember
 - ⌨️ update your profile README (this one)
 - 🟩 keep your GitHub contributions up to date (contribution table)
 - ✅ make sure that the contribution table is set to include your private repos
-- ✅ readers are likely to have read your CV, possibly LinkedIn and now on to your GitHub profile, try not to duplicate too much or be overly repetitive 
+- ❌ readers are likely to have read your CV, possibly LinkedIn and now on to your GitHub profile, try not to duplicate too much or be overly repetitive 
 ______
 You are also prompted with some ideas:
 - currently working on updating my GitHub profile to make it more interesting
