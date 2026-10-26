@@ -48,6 +48,7 @@ Remember to
 
 If you have any questions, please always reach out to me in your personal Slack channel 👋
 
+Even I am starting a little intro to Python 🐍 Let's see how I get on 🤞
 <!--
 **CarDarTech/CarDarTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
